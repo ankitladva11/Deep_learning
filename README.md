@@ -62,3 +62,9 @@ NAG is an optimization algorithm that is similar to momentum, but it takes into 
 
 #### Adagrad
 Adagrad is an optimization algorithm that adapts the learning rate to the parameters, performing larger updates for infrequent and smaller updates for frequent parameters
+
+
+If you have any questions or suggestions, please feel free to contact me or open an issue in this repository.
+
+
+
